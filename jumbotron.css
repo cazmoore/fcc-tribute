@@ -1,0 +1,7 @@
+.jumbotron {
+  background-image: url('img/wwaf_demob.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  height: 500px;
+}
