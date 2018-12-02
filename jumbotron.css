@@ -1,7 +1,30 @@
+/* Class styles */
+
 .jumbotron {
   background-image: url('img/wwaf_demob.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
   height: 500px;
+}
+
+/* ID styles */
+
+#image {
+width: 100%;
+height: auto;
+max-width: 512px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+#img-div {
+  margin: auto;
+  max-width: 512px;
+}
+
+#link {
+  margin: auto;
+  width: 100%;
 }

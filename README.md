@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # fcc-tribute
 
 **FreeCodeCamp tribute page project**
